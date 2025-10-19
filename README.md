@@ -21,6 +21,4 @@ The LED chaser is a simple yet fun electronics project that lights up LEDs seque
 - ✅ **PCB Layout** – Fully routed in KiCad PCB Editor  
 - ✅ **3D Model** – Realistic preview of the PCB before fabrication
 
----
-
 
